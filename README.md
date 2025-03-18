@@ -369,7 +369,11 @@ If you are interested in keeping in touch, I have quite a lively twitter stream 
 
 ## Logs
 - 18 March, the repo created.
-- 18 March, ...
+- 18 March, OpenCV and Python directories created.
+- 18 March, Give ref. PyTorch and Tensorflow based computer vision applications.
+- 18 March, Create first Python and OpenCV based notebooks.
+
+<!--- - 18 March, Create News section.  --->
 
 
 <!--- Zero to Mastery Machine Learning Directory
