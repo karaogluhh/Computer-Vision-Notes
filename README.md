@@ -130,6 +130,7 @@ If you need help to decide whether this book is for you, check out some of the "
 
 
 ## References
+1. Szeliski, Richard. Computer Vision: Algorithms and Applications. Springer Nature, 2022.
 
 <!--- BONUS NOTEBOOKS
 
@@ -162,6 +163,19 @@ I have set up a separate library, [`mlxtend`](http://rasbt.github.io/mlxtend/), 
 
 [![](./images/mlxtend_logo.png)](http://rasbt.github.io/mlxtend/)
 --->
+
+
+## Repositories
+1. [Awesome Computer Vision by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision?tab=readme-ov-file)
+
+## Online Courses
+1. First Principles of Computer Vision Specialization by Shree Nayar
+   - Camera and Imaging
+   - Features and Boundaries
+   - 3D Reconstruction - Single Viewpoint
+   - 3D Reconstruction - Multiple Viewpoint
+   - Visual Perception
+2. Fundamentals of Digital Image and Video Processing by Aggelos Katsaggelos 
 
 
 
@@ -345,3 +359,7 @@ If you are interested in keeping in touch, I have quite a lively twitter stream 
 
 ## Logs
 - 18 March, the repo created.
+- 18 March, ...
+
+
+
