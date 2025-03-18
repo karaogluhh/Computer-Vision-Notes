@@ -9,8 +9,9 @@ This GitHub repository contains my notes and code examples on computer vision, i
 - [Codes and Notebooks](#codes-and-notebooks)
 - [Tools](#tools)
 - [References](#references)
-- 
-- 
+- [Repositories](#repositories)
+- [Online Courses](#online-courses)
+- [Logs](#logs)
 <!---
 - Excerpts from the [Foreword](./docs/foreword_ro.pdf) and [Preface](./docs/preface_sr.pdf)
 - [Instructions for setting up Python and the Jupiter Notebook](./code/ch01/README.md)  
