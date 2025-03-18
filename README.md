@@ -36,7 +36,11 @@ A big thanks to [Dmitriy Dligach](dmitriydligach) for sharing his slides from hi
 - [https://github.com/dmitriydligach/PyMLSlides](https://github.com/dmitriydligach/PyMLSlides)
 - 
 --->
-
+## Tools
+- [Scikit Image](https://scikit-image.org/)
+- [PIL](https://pillow.readthedocs.io/en/stable/)
+- [OpenCV](https://docs.opencv.org/4.x/index.html)
+- [Octave image Package](https://octave.sourceforge.io/image/overview.html)
 <!---
 #### Additional Math and NumPy Resources
 
