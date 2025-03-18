@@ -171,6 +171,7 @@ I have set up a separate library, [`mlxtend`](http://rasbt.github.io/mlxtend/), 
 
 ## Repositories
 1. [Awesome Computer Vision by Jia-Bin Huang](https://github.com/jbhuang0604/awesome-computer-vision?tab=readme-ov-file)
+2. [Numerical Tours](https://mathematical-tours.github.io/maths-ia-course/)
 
 ## Online Courses
 1. First Principles of Computer Vision Specialization by Shree Nayar
