@@ -16,7 +16,7 @@ This GitHub repository contains my notes and code examples on computer vision, i
 
 <!--- 1. Computer Vision - Seeing the world with the eye of computers and machines [[dir](./code/ch01)] [[ipynb](./code/ch01/ch01.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch01/ch01.ipynb)] --->
 
-## Code Notebooks
+## Codes and Notebooks
 1. Computer Vision - Seeing the world with the eye of computers and machines [[dir](./code/ch01)] [[ipynb](./code/ch01/ch01.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch01/ch01.ipynb)]
 <!--- 2. Computer Vision - Seeing the world with the eye of computers and machines [[dir](./code/ch01)] [[ipynb](./code/ch01/ch01.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch01/ch01.ipynb)]
 3. Computer Vision - Seeing the world with the eye of computers and machines [[dir](./code/ch01)] [[ipynb](./code/ch01/ch01.ipynb)] [[nbviewer](http://nbviewer.ipython.org/github/rasbt/python-machine-learning-book/blob/master/code/ch01/ch01.ipynb)]
