@@ -368,7 +368,7 @@ If you are interested in keeping in touch, I have quite a lively twitter stream 
 --->
 
 ## Logs 
-- 2 September 2025 - 7 September 2025, the first four OpenCV notebooks created.
+- 2 September 2025 - 10 September 2025, the first four OpenCV notebooks created.
 - 18 March 2025, the repo created.
 
 <!--- - 18 March, Create News section.  --->
