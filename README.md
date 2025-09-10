@@ -1,4 +1,4 @@
-<img width="712" height="196" alt="image" src="https://github.com/user-attachments/assets/8ad79e86-2c1d-469e-8cc4-5aa1bcbaf2ff" /># Computer-Vision-Notes
+# Computer-Vision-Notes
 This GitHub repository contains my notes and code examples on computer vision, image processing and computational imaging fields.
 
 <!--- 
