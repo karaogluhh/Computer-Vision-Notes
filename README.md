@@ -1,4 +1,4 @@
-# Computer-Vision-Notes
+<img width="712" height="196" alt="image" src="https://github.com/user-attachments/assets/8ad79e86-2c1d-469e-8cc4-5aa1bcbaf2ff" /># Computer-Vision-Notes
 This GitHub repository contains my notes and code examples on computer vision, image processing and computational imaging fields.
 
 <!--- 
@@ -367,11 +367,9 @@ or consider asking the question on the [Google Groups Email List](https://groups
 If you are interested in keeping in touch, I have quite a lively twitter stream ([@rasbt](https://twitter.com/rasbt)) all about data science and machine learning. I also maintain a [blog](http://sebastianraschka.com/articles.html) where I post all of the things I am particularly excited about.
 --->
 
-## Logs
-- 18 March, the repo created.
-- 18 March, OpenCV and Python directories created.
-- 18 March, Give ref. PyTorch and Tensorflow based computer vision applications.
-- 18 March, Create first Python and OpenCV based notebooks.
+## Logs 
+- 2 September 2025 - 7 September 2025, the first four OpenCV notebooks created.
+- 18 March 2025, the repo created.
 
 <!--- - 18 March, Create News section.  --->
 
