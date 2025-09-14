@@ -65,8 +65,8 @@ A big thanks to [Dmitriy Dligach](dmitriydligach) for sharing his slides from hi
 - [Scikit Image](https://scikit-image.org/)
 - [PIL](https://pillow.readthedocs.io/en/stable/)
 - [OpenCV](https://docs.opencv.org/4.x/index.html)
-- [Octave `image` Package](https://octave.sourceforge.io/image/overview.html)
 <!---
+- [Octave `image` Package](https://octave.sourceforge.io/image/overview.html)
 #### Additional Math and NumPy Resources
 
 Some readers were asking about Math and NumPy primers, since they were not included due to length limitations. However, I recently put together such resources for another book, but I made these *chapters* freely available online in hope that they also serve as helpful background material for this book:
