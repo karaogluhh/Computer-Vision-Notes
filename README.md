@@ -62,9 +62,10 @@ A big thanks to [Dmitriy Dligach](dmitriydligach) for sharing his slides from hi
 - 
 --->
 ## Tools
-- [Scikit Image](https://scikit-image.org/)
-- [PIL](https://pillow.readthedocs.io/en/stable/)
-- [OpenCV](https://docs.opencv.org/4.x/index.html)
+- [**OpenCV**](https://docs.opencv.org/4.x/index.html) is a fast, C++-based computer-vision library with Python bindings; it excels at performance and real-time use cases and offers a broad set of classical CV algorithms (filtering, feature detection, geometry, and video I/O), making it a common choice for production pipelines.
+- [**Scikit Image** ](https://scikit-image.org/) is a pure-Python library built on NumPy, SciPy, and Matplotlib; it emphasizes a clean, consistent API and tight integration with the scientific Python stack, which makes it ideal for research, education, and prototyping where readability and interoperability matter.
+- [**PIL**](https://pillow.readthedocs.io/en/stable/) is the actively maintained fork of the Python Imaging Library; it focuses on simplicity and covers image I/O, format conversion, and basic manipulations (resize, crop, and filtering), so it’s widely used in data preprocessing and lightweight image tasks.
+
 <!---
 - [Octave `image` Package](https://octave.sourceforge.io/image/overview.html)
 #### Additional Math and NumPy Resources
