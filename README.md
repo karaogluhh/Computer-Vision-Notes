@@ -160,8 +160,16 @@ If you need help to decide whether this book is for you, check out some of the "
 
 
 ## References
-1. Szeliski, Richard. Computer Vision: Algorithms and Applications. Springer Nature, 2022.
-
+1. Richard Szeliski — Computer Vision: Algorithms and Applications, 2nd edition (Springer, 2022)
+2. Rafael C. Gonzalez & Richard E. Woods — Digital Image Processing, 4th edition (Pearson, 2018)
+3. David A. Forsyth & Jean Ponce — Computer Vision: A Modern Approach, 2nd edition (Pearson, 2011)
+4. Hartley & Zisserman — Multiple View Geometry in Computer Vision, 2nd edition (Cambridge University Press, 2004)
+5. Jan Erik Solem — Programming Computer Vision with Python (O’Reilly, 2012) — practical Python focus
+6. Adrian Rosebrock — Deep Learning for Computer Vision (PyImageSearch, 2019) — applied deep learning
+7. Berthold K. P. Horn — Robot Vision (MIT Press, 1986)
+8. Alan C. Bovik (ed.) — The Essential Guide to Image Processing, 2nd ed. (Academic Press, 2009)
+9. Antonio Torralba & William T. Freeman — Fundamentals of Computer Vision (MIT, 2020)
+   
 <!--- BONUS NOTEBOOKS
 
 ### Bonus Notebooks (not in the book)
@@ -389,6 +397,7 @@ If you are interested in keeping in touch, I have quite a lively twitter stream 
 --->
 
 ## Logs 
+- 15 September 2025, update references.
 - 15 September 2025, add tool descriptions for OpenCV, Scikit Image, and PIL in README file.
 - 15 September 2025, create OpenCV, Scikit Image and PIL Notebooks table in README file.
 - 2 September 2025 - 10 September 2025, the first four OpenCV notebooks created.
