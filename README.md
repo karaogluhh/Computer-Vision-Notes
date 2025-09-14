@@ -389,7 +389,8 @@ If you are interested in keeping in touch, I have quite a lively twitter stream 
 --->
 
 ## Logs 
-- 15 September 2025, Create OpenCV, Scikit Image and PIL Notebooks table in README file.
+- 15 September 2025, add tool descriptions for OpenCV, Scikit Image, and PIL in README file.
+- 15 September 2025, create OpenCV, Scikit Image and PIL Notebooks table in README file.
 - 2 September 2025 - 10 September 2025, the first four OpenCV notebooks created.
 - 18 March 2025, the repo created.
 
