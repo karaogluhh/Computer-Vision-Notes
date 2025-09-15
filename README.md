@@ -158,17 +158,6 @@ If you need help to decide whether this book is for you, check out some of the "
 ---
 --->
 
-
-## References
-1. Richard Szeliski — Computer Vision: Algorithms and Applications, 2nd edition (Springer, 2022)
-2. Rafael C. Gonzalez & Richard E. Woods — Digital Image Processing, 4th edition (Pearson, 2018)
-3. David A. Forsyth & Jean Ponce — Computer Vision: A Modern Approach, 2nd edition (Pearson, 2011)
-4. Hartley & Zisserman — Multiple View Geometry in Computer Vision, 2nd edition (Cambridge University Press, 2004)
-5. Jan Erik Solem — Programming Computer Vision with Python (O’Reilly, 2012) — practical Python focus
-6. Adrian Rosebrock — Deep Learning for Computer Vision (PyImageSearch, 2019) — applied deep learning
-7. Berthold K. P. Horn — Robot Vision (MIT Press, 1986)
-8. Alan C. Bovik (ed.) — The Essential Guide to Image Processing, 2nd ed. (Academic Press, 2009)
-9. Antonio Torralba & William T. Freeman — Fundamentals of Computer Vision (MIT, 2020)
    
 <!--- BONUS NOTEBOOKS
 
@@ -208,15 +197,67 @@ I have set up a separate library, [`mlxtend`](http://rasbt.github.io/mlxtend/), 
 2. [Numerical Tours](https://mathematical-tours.github.io/maths-ia-course/)
 
 ## Online Courses
-1. First Principles of Computer Vision Specialization by Shree Nayar
-   - Camera and Imaging
-   - Features and Boundaries
-   - 3D Reconstruction - Single Viewpoint
-   - 3D Reconstruction - Multiple Viewpoint
-   - Visual Perception
-2. Fundamentals of Digital Image and Video Processing by Aggelos Katsaggelos 
+1. [First Principles of Computer Vision Specialization](https://www.coursera.org/learn/3d-reconstruction-multiple-viewpoints?specialization=firstprinciplesofcomputervision)
+   This is five-course specialization course offered by Prof. Shree Nayar for learning fundamentals of computer vision field. 
+   - [Camera and Imaging](https://www.coursera.org/learn/cameraandimaging?specialization=firstprinciplesofcomputervision)
+   - [Features and Boundaries](https://www.coursera.org/learn/features-and-boundaries?specialization=firstprinciplesofcomputervision)
+   - [3D Reconstruction - Single Viewpoint](https://www.coursera.org/learn/3d-reconstruction---single-viewpoint?specialization=firstprinciplesofcomputervision)
+   - [3D Reconstruction - Multiple Viewpoint](https://www.coursera.org/learn/3d-reconstruction-multiple-viewpoints?specialization=firstprinciplesofcomputervision)
+   - [Visual Perception](https://www.coursera.org/learn/perception?specialization=firstprinciplesofcomputervision)
+3. Fundamentals of Digital Image and Video Processing by Aggelos Katsaggelos 
+
+---
+
+## Journals
+
+* [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
+* [IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
+* [IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852)
+* [International Journal of Computer Vision (IJCV)](https://www.springer.com/journal/11263)
+* [Computer Vision and Image Understanding (CVIU)](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)
+* [Image and Vision Computing (IVC)](https://www.sciencedirect.com/journal/image-and-vision-computing)
+* [Pattern Recognition (PR)](https://www.sciencedirect.com/journal/pattern-recognition)
+* [Pattern Recognition Letters (PRL)](https://www.sciencedirect.com/journal/pattern-recognition-letters)
+* [Machine Vision and Applications (MVA)](https://www.springer.com/journal/138)
+* [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
+* [Journal of Machine Learning Research (JMLR)](https://www.jmlr.org/)
+* [IEEE Transactions on Neural Networks and Learning Systems (TNNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+
+---
+
+## Conferences
+
+* [IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr.thecvf.com/)
+* [IEEE International Conference on Computer Vision (ICCV)](https://iccv.thecvf.com/)
+* [European Conference on Computer Vision (ECCV)](https://eccv.ecva.net/)
+* [Asian Conference on Computer Vision (ACCV)](https://accv2024.org/)
+* [British Machine Vision Conference (BMVC)](https://bmvc2024.org.uk/)
+* [Winter Conference on Applications of Computer Vision (WACV)](https://wacv.thecvf.com/)
+* [International Conference on Pattern Recognition (ICPR)](https://www.icpr2024.org/)
+* [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/)
+* [International Conference on Machine Learning (ICML)](https://icml.cc/)
+* [International Conference on Learning Representations (ICLR)](https://iclr.cc/)
+* [AAAI Conference on Artificial Intelligence (AAAI)](https://aaai.org/Conferences/AAAI)
+* [International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai.org/)
+
+---
+
+Bunu repo’na eklediğinde hem güzel bir kaynak listesi olur, hem de hızlıca erişim sağlar.
+
+👉 İstersen ben sana bunun için **commit mesajı + log mesajı** da hazır edeyim mi?
 
 
+
+## References
+1. Richard Szeliski — Computer Vision: Algorithms and Applications, 2nd edition (Springer, 2022)
+2. Rafael C. Gonzalez & Richard E. Woods — Digital Image Processing, 4th edition (Pearson, 2018)
+3. David A. Forsyth & Jean Ponce — Computer Vision: A Modern Approach, 2nd edition (Pearson, 2011)
+4. Hartley & Zisserman — Multiple View Geometry in Computer Vision, 2nd edition (Cambridge University Press, 2004)
+5. Jan Erik Solem — Programming Computer Vision with Python (O’Reilly, 2012) — practical Python focus
+6. Adrian Rosebrock — Deep Learning for Computer Vision (PyImageSearch, 2019) — applied deep learning
+7. Berthold K. P. Horn — Robot Vision (MIT Press, 1986)
+8. Alan C. Bovik (ed.) — The Essential Guide to Image Processing, 2nd ed. (Academic Press, 2009)
+9. Antonio Torralba & William T. Freeman — Fundamentals of Computer Vision (MIT, 2020)
 
 
 <!--- EXAMPLES
@@ -397,6 +438,7 @@ If you are interested in keeping in touch, I have quite a lively twitter stream 
 --->
 
 ## Logs 
+- 15 September 2025, update references section, add journals & conferences with links, revise notebook table
 - 15 September 2025, update references.
 - 15 September 2025, add tool descriptions for OpenCV, Scikit Image, and PIL in README file.
 - 15 September 2025, create OpenCV, Scikit Image and PIL Notebooks table in README file.
