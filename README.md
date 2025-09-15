@@ -242,11 +242,6 @@ I have set up a separate library, [`mlxtend`](http://rasbt.github.io/mlxtend/), 
 
 ---
 
-Bunu repo’na eklediğinde hem güzel bir kaynak listesi olur, hem de hızlıca erişim sağlar.
-
-👉 İstersen ben sana bunun için **commit mesajı + log mesajı** da hazır edeyim mi?
-
-
 
 ## References
 1. Richard Szeliski — Computer Vision: Algorithms and Applications, 2nd edition (Springer, 2022)
