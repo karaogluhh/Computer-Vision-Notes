@@ -433,7 +433,7 @@ If you are interested in keeping in touch, I have quite a lively twitter stream 
 --->
 
 ## Logs 
-- 19 September 2025, add 05_opencv file.
+- 19 September 2025, add `05_opencv_video_processing` notebook.
 - 15 September 2025, update references section, add journals & conferences with links, revise notebook table
 - 15 September 2025, update references.
 - 15 September 2025, add tool descriptions for OpenCV, Scikit Image, and PIL in README file.
